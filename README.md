@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Fernando Herández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 🤵 About Me:
-- 🏦 I am a third year student of science and information technologies at Universidad del Valle de Guatemala.
+- 🏦 I am a third year student of computer science and information technologies at Universidad del Valle de Guatemala.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ``` .kt```
 - 🌱 I'm currently learning web development, software engineering and databases.
